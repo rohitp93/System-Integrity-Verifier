@@ -1,0 +1,18 @@
+Initialization mode complete 
+
+Monitored directory = /home/ropo15/PycharmProjects/
+Verification file =ver_file
+Number of directories parsed =7
+Number of files parsed = 25
+Time taken = 0:00:14.655208
+
+Verification Mode begin
+
+Verification mode complete 
+
+Monitored directory = /home/ropo15/PycharmProjects/
+Verification file =ver_file
+Number of directories parsed =7
+Number of files parsed = 25
+Total Warnings = 0
+Time taken = 0:00:01.168568
