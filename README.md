@@ -6,10 +6,10 @@ a report file.
 Thereby, the tool verifies the integrity of a monitored directory.
 
 Initialization mode:
-/usr/bin/python3.5 siv.py -i -D '<monitored_directory>' -V '<verification_file>' -R '<report_file>' -H '<hash>'
+/usr/bin/python3.5 siv.py -i -D 'monitored_directory' -V 'verification_file' -R 'report_file' -H 'hash'
 
 Verification mode:
-/usr/bin/python3.5 siv.py -v -D '<monitored_directory>' -V '<verification_file>' -R '<report_file>'
+/usr/bin/python3.5 siv.py -v -D 'monitored_directory' -V 'verification_file' -R 'report_file'
 
 Help mode:
 /usr/bin/python3.5 siv.py -h
